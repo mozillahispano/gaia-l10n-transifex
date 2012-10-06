@@ -1,0 +1,20 @@
+tx init
+tx set -r gaia-l10n.appsbrowser --source -l en-US apps/browser/browser.properties
+tx set -r gaia-l10n.appscalendar --source -l en-US apps/calendar/calendar.properties
+tx set -r gaia-l10n.appscamera --source -l en-US apps/camera/camera.properties
+tx set -r gaia-l10n.appsclock --source -l en-US apps/clock/clock.properties
+tx set -r gaia-l10n.appscommmunicationscontacts --source -l en-US apps/communications/contacts/contacts.properties
+tx set -r gaia-l10n.appscommmunicationscontactsfb --source -l en-US apps/communications/contacts/fb/facebook.properties
+tx set -r gaia-l10n.appscommunicationsdialer --source -l en-US apps/communications/dialer/dialer.properties
+tx set -r gaia-l10n.appscostcontrol --source -l en-US apps/costcontrol/costcontrol.properties
+tx set -r gaia-l10n.appsemail --source -l en-US apps/email/email.properties
+tx set -r gaia-l10n.appsfeedback --source -l en-US apps/feedback/feedback.properties
+tx set -r gaia-l10n.appsfm --source -l en-US apps/fm/fm.properties
+tx set -r gaia-l10n.appsgallery --source -l en-US apps/gallery/gallery.properties
+tx set -r gaia-l10n.appsmusic --source -l en-US apps/music/music.properties
+tx set -r gaia-l10n.appssettings --source -l en-US apps/settings/settings.properties
+tx set -r gaia-l10n.appssms --source -l en-US apps/sms/sms.properties
+tx set -r gaia-l10n.appssystem --source -l en-US apps/system/system.properties
+tx set -r gaia-l10n.appsvideo --source -l en-US apps/video/video.properties
+tx set -r gaia-l10n.appswallpaper --source -l en-US apps/wallpaper/wallpaper.properties
+tx set -r gaia-l10n.shareddate --source -l en-US shared/date/date.properties

@@ -1,0 +1,116 @@
+[main]
+host = https://www.transifex.com
+
+[gaia-l10n.appsbrowser]
+file_filter = <lang>/apps/browser/browser.properties
+source_file = en-US/apps/browser/browser.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.appscalendar]
+file_filter = <lang>/apps/calendar/calendar.properties
+source_file = en-US/apps/calendar/calendar.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.appscamera]
+file_filter = <lang>/apps/camera/camera.properties
+source_file = en-US/apps/camera/camera.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.appsclock]
+file_filter = <lang>/apps/clock/clock.properties
+source_file = en-US/apps/clock/clock.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.appscommunicationscontacts]
+file_filter = <lang>/apps/communications/contacts/contacts.properties
+source_file = en-US/apps/communications/contacts/contacts.properties
+source_lang = en_US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.appscommunicationscontactsfb]
+file_filter = <lang>/apps/communications/contacts/fb/facebook.properties
+source_file = en-US/apps/communications/contacts/fb/facebook.properties
+source_lang = en_US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.appscommunicationsdialer]
+file_filter = <lang>/apps/communications/dialer/dialer.properties
+source_file = en-US/apps/communications/dialer/dialer.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.appscostcontrol]
+file_filter = <lang>/apps/costcontrol/costcontrol.properties
+source_file = en-US/apps/costcontrol/costcontrol.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.appsemail]
+file_filter = <lang>/apps/email/email.properties
+source_file = en-US/apps/email/email.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.appsfeedback]
+file_filter = <lang>/apps/feedback/feedback.properties
+source_file = en-US/apps/feedback/feedback.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.appsfm]
+file_filter = <lang>/apps/fm/fm.properties
+source_file = en-US/apps/fm/fm.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.appsgallery]
+file_filter = <lang>/apps/gallery/gallery.properties
+source_file = en-US/apps/gallery/gallery.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.appsmusic]
+file_filter = <lang>/apps/music/music.properties
+source_file = en-US/apps/music/music.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.appssettings]
+file_filter = <lang>/apps/settings/settings.properties
+source_file = en-US/apps/settings/settings.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.appssms]
+file_filter = <lang>/apps/sms/sms.properties
+source_file = en-US/apps/sms/sms.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.appssystem]
+file_filter = <lang>/apps/system/system.properties
+source_file = en-US/apps/system/system.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.appsvideo]
+file_filter = <lang>/apps/video/video.properties
+source_file = en-US/apps/video/video.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.appswallpaper]
+file_filter = <lang>/apps/wallpaper/wallpaper.properties
+source_file = en-US/apps/wallpaper/wallpaper.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.shareddate]
+file_filter = <lang>/shared/date/date.properties
+source_file = en-US/shared/date/date.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
