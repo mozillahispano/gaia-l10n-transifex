@@ -1,6 +1,12 @@
 [main]
 host = https://www.transifex.com
 
+[gaia-l10n.appsbluetooth]
+file_filter = <lang>/apps/bluetooth/bluetooth.properties
+source_file = en-US/apps/bluetooth/bluetooth.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
 [gaia-l10n.appsbrowser]
 file_filter = <lang>/apps/browser/browser.properties
 source_file = en-US/apps/browser/browser.properties
@@ -43,6 +49,12 @@ source_file = en-US/apps/communications/dialer/dialer.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
+[gaia-l10n.appscommunicationsftu]
+file_filter = <lang>/apps/communications/ftu/ftu.properties
+source_file = en-US/apps/communications/ftu/ftu.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
 [gaia-l10n.appscostcontrol]
 file_filter = <lang>/apps/costcontrol/costcontrol.properties
 source_file = en-US/apps/costcontrol/costcontrol.properties
@@ -73,6 +85,12 @@ source_file = en-US/apps/gallery/gallery.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
+[gaia-l10n.appshomescreen]
+file_filter = <lang>/apps/homescreen/homescreen.properties
+source_file = en-US/apps/homescreen/homescreen.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
 [gaia-l10n.appsmusic]
 file_filter = <lang>/apps/music/music.properties
 source_file = en-US/apps/music/music.properties
@@ -97,6 +115,12 @@ source_file = en-US/apps/system/system.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
+[gaia-l10n.appssystemcamera]
+file_filter = <lang>/apps/system/camera/camera.properties
+source_file = en-US/apps/system/camera/camera.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
 [gaia-l10n.appsvideo]
 file_filter = <lang>/apps/video/video.properties
 source_file = en-US/apps/video/video.properties
@@ -112,5 +136,11 @@ type = MOZILLAPROPERTIES
 [gaia-l10n.shareddate]
 file_filter = <lang>/shared/date/date.properties
 source_file = en-US/shared/date/date.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.sharedpermissions]
+file_filter = <lang>/shared/permissions/permissions.properties
+source_file = en-US/shared/permissions/permissions.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES

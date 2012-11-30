@@ -1,17 +1,60 @@
-# Gaia l10n transifex config files #
- -----------------------------------
- 
- This repo contains the files to hook up transifex with Gaia localization files.
- 
-## What do you need? ##
+Localization Testing
+====================
 
-* Clone this repo
-* Enther the cloned repo: `gaia-l10n-transifex`
-* Clone the en-US repo:
-  `hg clone http://hg.mozilla.org/gaia-l10n/en-US/`
-* Clone the <lang> repo:
-  `hg clone http://hg.mozilla.org/gaia-l10n/<lang>/`
+This directory can be used for localization testing.  You can put localization 
+files here and Gaia will use them when run in the `debug` mode.
 
-Now you can just `tx pull -s` to get the en-US (which is the default language), or `tx pull -l <lang>` where `<lang>` is your language code you cloned in an earlier step.
+Running Gaia in debug mode
+--------------------------
 
-If you do this, you can simply go to your `<lang>` repo and `hg push` to gaia-l10n and upload your translation to the Mozilla's repo.
+In order to enable the the `debug` mode (in a desktop build or in Firefox), 
+run:
+
+    $ DEBUG=1 make profile
+
+Localization file layout
+------------------------
+
+Files put in this directory should follow the l10n HG repos directory layout.  
+
+In the `debug` mode, Gaia will first try to find the `.properties` file in 
+
+    locales/LOCALE/apps/APP/APP.properties
+
+For instance, the localization file for the browser app for French would be 
+located under:
+
+    locales/fr/apps/browser/browser.properties
+
+Notice that this way `locales/fr` can be an HG clone of the French gaia-l10n 
+repository.
+
+If the file does not exist, Gaia will fallback to looking in its regular 
+location, i.e.:
+
+    apps/APP/locales/APP.LOCALE.properties
+
+Use-case: working in HG
+-----------------------
+
+Clone your locale's Gaia l10n repository into this directory.  For instace, for 
+French (run from the git clone root):
+
+    $ hg clone ssh://hg.mozilla.org/gaia-l10n/fr locales/fr
+
+Create Gaia's profile with:
+
+    $ DEBUG=1 make profile
+
+And launch it in a desktop build:
+
+    $ b2g -profile profile/
+
+...or in Firefox:
+
+    $ firefox -profile profile/
+
+You can now use Gaia and test the localization.  When you make changes to the 
+files in the HG clone, just reload the Gaia app to see changes.
+
+Once you're done, commit your changes to HG from the clone you were working in.
