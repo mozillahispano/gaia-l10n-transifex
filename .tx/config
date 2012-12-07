@@ -31,6 +31,12 @@ source_file = en-US/apps/clock/clock.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
+[gaia-l10n.appsclockalarms]
+file_filter = <lang>/apps/clock/alarms.properties
+source_file = en-US/apps/clock/alarms.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
 [gaia-l10n.appscommunicationscontacts]
 file_filter = <lang>/apps/communications/contacts/contacts.properties
 source_file = en-US/apps/communications/contacts/contacts.properties
@@ -103,6 +109,18 @@ source_file = en-US/apps/settings/settings.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
+[gaia-l10n.appssettingsnotifications]
+file_filter = <lang>/apps/settings/notifications.properties
+source_file = en-US/apps/settings/notifications.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.appsringtones]
+file_filter = <lang>/apps/settings/ringtones.properties
+source_file = en-US/apps/settings/ringtones.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
 [gaia-l10n.appssms]
 file_filter = <lang>/apps/sms/sms.properties
 source_file = en-US/apps/sms/sms.properties
@@ -142,5 +160,23 @@ type = MOZILLAPROPERTIES
 [gaia-l10n.sharedpermissions]
 file_filter = <lang>/shared/permissions/permissions.properties
 source_file = en-US/shared/permissions/permissions.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.sharedbrandingofficial]
+file_filter = <lang>/shared/branding/official/branding.properties
+source_file = en-US/shared/branding/official/branding.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.sharedbrandingunofficial]
+file_filter = <lang>/shared/branding/unofficial/branding.properties
+source_file = en-US/shared/branding/unofficial/branding.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n.sharedtz]
+file_filter = <lang>/shared/tz/tz.properties
+source_file = en-US/shared/tz/tz.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
