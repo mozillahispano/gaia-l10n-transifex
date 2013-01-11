@@ -5,11 +5,9 @@
 
 ## What do you need? ##
 
-* Clone this repo
+* Clone this repo inside the `locales` folder of Gaia.
 * Enter the cloned repo: `gaia-l10n-transifex`
-* Execute the `update.sh` script to download all locales from the `all-locales` file.
-
-* If you want to import bleeding-edge strings from gaia, execute the `import.sh` script which will copy all the en-US files from the base Gaia repository to en-US. This means that you will likely have different content from github than from mercurial.
+* Execute the `./import.sh properties` and `./import.sh manifests` to import manifests and properties from the gaia repository.
 
 Now you can just `tx pull -s` to get the en-US (which is the default language), or `tx pull -l <lang>` where `<lang>` is your language code you cloned in an earlier step.
 
