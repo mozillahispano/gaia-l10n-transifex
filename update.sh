@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for loc in $(cat $1)
+for loc in fr
 do
    if [[ -d $loc ]] 
    then
