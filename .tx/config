@@ -1,193 +1,211 @@
 [main]
 host = https://www.transifex.com
 
-[gaia-l10n-12.appsbluetooth]
+[gaia-l10n-13.appsbluetooth]
 file_filter = <lang>/apps/bluetooth/bluetooth.properties
 source_file = en-US/apps/bluetooth/bluetooth.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appsbrowser]
+[gaia-l10n-13.appsbrowser]
 file_filter = <lang>/apps/browser/browser.properties
 source_file = en-US/apps/browser/browser.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appscalendar]
+[gaia-l10n-13.appscalendar]
 file_filter = <lang>/apps/calendar/calendar.properties
 source_file = en-US/apps/calendar/calendar.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appscamera]
+[gaia-l10n-13.appscamera]
 file_filter = <lang>/apps/camera/camera.properties
 source_file = en-US/apps/camera/camera.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appsclock]
+[gaia-l10n-13.appsclock]
 file_filter = <lang>/apps/clock/clock.properties
 source_file = en-US/apps/clock/clock.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appsclockalarms]
+[gaia-l10n-13.appsclockalarms]
 file_filter = <lang>/apps/clock/alarms.properties
 source_file = en-US/apps/clock/alarms.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appscommunicationscontacts]
+[gaia-l10n-13.appscommunicationscontacts]
 file_filter = <lang>/apps/communications/contacts/contacts.properties
 source_file = en-US/apps/communications/contacts/contacts.properties
 source_lang = en_US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appscommunicationscontactsfb]
+[gaia-l10n-13.appscommunicationscontactsfb]
 file_filter = <lang>/apps/communications/contacts/fb/facebook.properties
 source_file = en-US/apps/communications/contacts/fb/facebook.properties
 source_lang = en_US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appscommunicationscontactsmatcher]
+[gaia-l10n-13.appscommunicationscontactsmatcher]
 file_filter = <lang>/apps/communications/contacts/matcher/matcher.properties
 source_file = en-US/apps/communications/contacts/matcher/matcher.properties
 source_lang = en_US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appscommunicationsdialer]
+[gaia-l10n-13.appscommunicationsdialer]
 file_filter = <lang>/apps/communications/dialer/dialer.properties
 source_file = en-US/apps/communications/dialer/dialer.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appscommunicationsdialershared]
+[gaia-l10n-13.appscommunicationsdialershared]
 file_filter = <lang>/apps/communications/dialer/shared.properties
 source_file = en-US/apps/communications/dialer/shared.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appscommunicationsftu]
+[gaia-l10n-13.appscommunicationsftu]
 file_filter = <lang>/apps/communications/ftu/ftu.properties
 source_file = en-US/apps/communications/ftu/ftu.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appscostcontrol]
+[gaia-l10n-13.appscostcontrol]
 file_filter = <lang>/apps/costcontrol/costcontrol.properties
 source_file = en-US/apps/costcontrol/costcontrol.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appsemail]
+[gaia-l10n-13.appsemail]
 file_filter = <lang>/apps/email/email.properties
 source_file = en-US/apps/email/email.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appsfldownload]
+[gaia-l10n-13.appsfldownload]
 file_filter = <lang>/apps/fl/download.properties
 source_file = en-US/apps/fl/download.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appsflpick]
+[gaia-l10n-13.appsflpick]
 file_filter = <lang>/apps/fl/pick.properties
 source_file = en-US/apps/fl/pick.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appsfm]
+[gaia-l10n-13.appsfm]
 file_filter = <lang>/apps/fm/fm.properties
 source_file = en-US/apps/fm/fm.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appsgallery]
+[gaia-l10n-13.appsgallery]
 file_filter = <lang>/apps/gallery/gallery.properties
 source_file = en-US/apps/gallery/gallery.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appshomescreen]
+[gaia-l10n-13.appshomescreen]
 file_filter = <lang>/apps/homescreen/homescreen.properties
 source_file = en-US/apps/homescreen/homescreen.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appskeyboard]
+[gaia-l10n-13.appshomescreencollections]
+file_filter = <lang>/apps/homescreen/collections.properties
+source_file = en-US/apps/homescreen/collections.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n-13.appskeyboard]
 file_filter = <lang>/apps/keyboard/keyboard.properties
 source_file = en-US/apps/keyboard/keyboard.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appsmusic]
+[gaia-l10n-13.appsmusic]
 file_filter = <lang>/apps/music/music.properties
 source_file = en-US/apps/music/music.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appsringtones]
+[gaia-l10n-13.appsringtones]
 file_filter = <lang>/apps/ringtones/ringtones.properties
 source_file = en-US/apps/ringtones/ringtones.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appssettings]
+[gaia-l10n-13.appssetringtone]
+file_filter = <lang>/apps/setringtone/setringtone.properties
+source_file = en-US/apps/setringtone/setringtone.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n-13.appssettings]
 file_filter = <lang>/apps/settings/settings.properties
 source_file = en-US/apps/settings/settings.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appssms]
+[gaia-l10n-13.appssms]
 file_filter = <lang>/apps/sms/sms.properties
 source_file = en-US/apps/sms/sms.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appssystem]
+[gaia-l10n-13.appssystem]
 file_filter = <lang>/apps/system/system.properties
 source_file = en-US/apps/system/system.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appsvideo]
+[gaia-l10n-13.appsvideo]
 file_filter = <lang>/apps/video/video.properties
 source_file = en-US/apps/video/video.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appswallpaper]
+[gaia-l10n-13.appswallpaper]
 file_filter = <lang>/apps/wallpaper/wallpaper.properties
 source_file = en-US/apps/wallpaper/wallpaper.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.appswappush]
+[gaia-l10n-13.appswappush]
 file_filter = <lang>/apps/wappush/wappush.properties
 source_file = en-US/apps/wappush/wappush.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.sharedbrandingunofficial]
+[gaia-l10n-13.sharedbrandingunofficial]
 file_filter = <lang>/shared/branding/unofficial/branding.properties
 source_file = en-US/shared/branding/unofficial/branding.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.shareddate]
+[gaia-l10n-13.shareddate]
 file_filter = <lang>/shared/date/date.properties
 source_file = en-US/shared/date/date.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.sharedpermissions]
+[gaia-l10n-13.shareddownload]
+file_filter = <lang>/shared/download/download.properties
+source_file = en-US/shared/download/download.properties
+source_lang = en-US
+type = MOZILLAPROPERTIES
+
+[gaia-l10n-13.sharedpermissions]
 file_filter = <lang>/shared/permissions/permissions.properties
 source_file = en-US/shared/permissions/permissions.properties
 source_lang = en-US
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-12.sharedtz]
+[gaia-l10n-13.sharedtz]
 file_filter = <lang>/shared/tz/tz.properties
 source_file = en-US/shared/tz/tz.properties
 source_lang = en-US
