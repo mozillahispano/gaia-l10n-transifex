@@ -2,187 +2,233 @@
 host = https://www.transifex.com
 type = MOZILLAPROPERTIES
 
-[gaia-l10n-14.appsbluetooth]
+[gaia-l10n-20.appsbluetooth]
 source_file = en-US/apps/bluetooth/bluetooth.properties
 source_lang = en
 trans.es = es/apps/bluetooth/bluetooth.properties
 
-[gaia-l10n-14.appsbrowser]
+[gaia-l10n-20.appsbrowser]
 file_filter = <lang>/apps/browser/browser.properties
 source_file = en-US/apps/browser/browser.properties
 source_lang = en
 
-[gaia-l10n-14.appscalendar]
+[gaia-l10n-20.appsbookmark]
+file_filter = <lang>/apps/bookmark/bookmark.properties
+source_file = en-US/apps/bookmark/bookmark.properties
+source_lang = en
+
+[gaia-l10n-20.appscalendar]
 file_filter = <lang>/apps/calendar/calendar.properties
 source_file = en-US/apps/calendar/calendar.properties
 source_lang = en
 
-[gaia-l10n-14.appscamera]
+[gaia-l10n-20.appscamera]
 file_filter = <lang>/apps/camera/camera.properties
 source_file = en-US/apps/camera/camera.properties
 source_lang = en
 
-[gaia-l10n-14.appsclock]
+[gaia-l10n-20.appscollection]
+file_filter = <lang>/apps/collection/collection.properties
+source_file = en-US/apps/collection/collection.properties
+source_lang = en
+
+[gaia-l10n-20.appsclock]
 file_filter = <lang>/apps/clock/clock.properties
 source_file = en-US/apps/clock/clock.properties
 source_lang = en
 
-[gaia-l10n-14.appsclockalarms]
+[gaia-l10n-20.appsclockalarms]
 file_filter = <lang>/apps/clock/alarms.properties
 source_file = en-US/apps/clock/alarms.properties
 source_lang = en
 
-[gaia-l10n-14.appscommunicationscontacts]
+[gaia-l10n-20.appscommunicationscontacts]
 file_filter = <lang>/apps/communications/contacts/contacts.properties
 source_file = en-US/apps/communications/contacts/contacts.properties
 source_lang = en_US
 
-[gaia-l10n-14.appscommunicationscontactsfb]
-file_filter = <lang>/apps/communications/contacts/fb/facebook.properties
-source_file = en-US/apps/communications/contacts/fb/facebook.properties
-source_lang = en_US
-
-[gaia-l10n-14.appscommunicationscontactsmatcher]
+[gaia-l10n-20.appscommunicationscontactsmatcher]
 file_filter = <lang>/apps/communications/contacts/matcher/matcher.properties
 source_file = en-US/apps/communications/contacts/matcher/matcher.properties
 source_lang = en_US
 
-[gaia-l10n-14.appscommunicationsdialer]
+[gaia-l10n-20.appscommunicationsdialer]
 file_filter = <lang>/apps/communications/dialer/dialer.properties
 source_file = en-US/apps/communications/dialer/dialer.properties
 source_lang = en
 
-[gaia-l10n-14.appscommunicationsdialershared]
+[gaia-l10n-20.appscommunicationsdialershared]
 file_filter = <lang>/apps/communications/dialer/shared.properties
 source_file = en-US/apps/communications/dialer/shared.properties
 source_lang = en
 
-[gaia-l10n-14.appscommunicationsftu]
-file_filter = <lang>/apps/communications/ftu/ftu.properties
-source_file = en-US/apps/communications/ftu/ftu.properties
-source_lang = en
-
-[gaia-l10n-14.appscostcontrol]
+[gaia-l10n-20.appscostcontrol]
 file_filter = <lang>/apps/costcontrol/costcontrol.properties
 source_file = en-US/apps/costcontrol/costcontrol.properties
 source_lang = en
 
-[gaia-l10n-14.appsemail]
+[gaia-l10n-20.appsemail]
 file_filter = <lang>/apps/email/email.properties
 source_file = en-US/apps/email/email.properties
 source_lang = en
 
-[gaia-l10n-14.appsfldownload]
+
+[gaia-l10n-20.appsftu]
+file_filter = <lang>/apps/ftu/ftu.properties
+source_file = en-US/apps/ftu/ftu.properties
+source_lang = en
+
+[gaia-l10n-20.appsfldownload]
 file_filter = <lang>/apps/fl/download.properties
 source_file = en-US/apps/fl/download.properties
 source_lang = en
 
-[gaia-l10n-14.appsflpick]
+[gaia-l10n-20.appsflpick]
 file_filter = <lang>/apps/fl/pick.properties
 source_file = en-US/apps/fl/pick.properties
 source_lang = en
 
-[gaia-l10n-14.appsfm]
+[gaia-l10n-20.appsfm]
 file_filter = <lang>/apps/fm/fm.properties
 source_file = en-US/apps/fm/fm.properties
 source_lang = en
 
-[gaia-l10n-14.appsgallery]
+[gaia-l10n-20.appsgallery]
 file_filter = <lang>/apps/gallery/gallery.properties
 source_file = en-US/apps/gallery/gallery.properties
 source_lang = en
 
-[gaia-l10n-14.appshomescreen]
+[gaia-l10n-20.appshomescreen]
 file_filter = <lang>/apps/homescreen/homescreen.properties
 source_file = en-US/apps/homescreen/homescreen.properties
 source_lang = en
 
-[gaia-l10n-14.appshomescreencollections]
+[gaia-l10n-20.appshomescreencollections]
 file_filter = <lang>/apps/homescreen/collections.properties
 source_file = en-US/apps/homescreen/collections.properties
 source_lang = en
 
-[gaia-l10n-14.appskeyboard]
+[gaia-l10n-20.appskeyboard]
 file_filter = <lang>/apps/keyboard/keyboard.properties
 source_file = en-US/apps/keyboard/keyboard.properties
 source_lang = en
 
-[gaia-l10n-14.appsmusic]
+[gaia-l10n-20.appsmusic]
 file_filter = <lang>/apps/music/music.properties
 source_file = en-US/apps/music/music.properties
 source_lang = en
 
-[gaia-l10n-14.appsringtones]
+[gaia-l10n-20.appsringtones]
 file_filter = <lang>/apps/ringtones/ringtones.properties
 source_file = en-US/apps/ringtones/ringtones.properties
 source_lang = en
 
-[gaia-l10n-14.appssearch]
+[gaia-l10n-20.appssearch]
 file_filter = <lang>/apps/search/search.properties
 source_file = en-US/apps/search/search.properties
 source_lang = en
 
-[gaia-l10n-14.appssetringtone]
-file_filter = <lang>/apps/setringtone/setringtone.properties
-source_file = en-US/apps/setringtone/setringtone.properties
-source_lang = en
-
-[gaia-l10n-14.appssettings]
+[gaia-l10n-20.appssettings]
 file_filter = <lang>/apps/settings/settings.properties
 source_file = en-US/apps/settings/settings.properties
 source_lang = en
 
-[gaia-l10n-14.appssms]
+[gaia-l10n-20.appssms]
 file_filter = <lang>/apps/sms/sms.properties
 source_file = en-US/apps/sms/sms.properties
 source_lang = en
 
-[gaia-l10n-14.appssystem]
+[gaia-l10n-20.appssystem]
 file_filter = <lang>/apps/system/system.properties
 source_file = en-US/apps/system/system.properties
 source_lang = en
 
-[gaia-l10n-14.appsvideo]
+[gaia-l10n-20.appssystemfxa]
+file_filter = <lang>/apps/system/fxa/fxa.properties
+source_file = en-US/apps/system/fxa/fxa.properties
+source_lang = en
+
+[gaia-l10n-20.appssystemmobileid]
+file_filter = <lang>/apps/system/mobile_id/mobile_id.properties
+source_file = en-US/apps/system/mobile_id/mobile_id.properties
+source_lang = en
+
+[gaia-l10n-20.appsverticalhome]
+file_filter = <lang>/apps/verticalhome/homescreen.properties
+source_file = en-US/apps/verticalhome/homescreen.properties
+source_lang = en
+
+[gaia-l10n-20.appsvideo]
 file_filter = <lang>/apps/video/video.properties
 source_file = en-US/apps/video/video.properties
 source_lang = en
 
-[gaia-l10n-14.appswallpaper]
+[gaia-l10n-20.appswallpaper]
 file_filter = <lang>/apps/wallpaper/wallpaper.properties
 source_file = en-US/apps/wallpaper/wallpaper.properties
 source_lang = en
 
-[gaia-l10n-14.appswappush]
+[gaia-l10n-20.appswappush]
 file_filter = <lang>/apps/wappush/wappush.properties
 source_file = en-US/apps/wappush/wappush.properties
 source_lang = en
 
-[gaia-l10n-14.sharedbrandingunofficial]
+[gaia-l10n-20.sharedbrandingunofficial]
 file_filter = <lang>/shared/branding/unofficial/branding.properties
 source_file = en-US/shared/branding/unofficial/branding.properties
 source_lang = en
 
-[gaia-l10n-14.shareddate]
+[gaia-l10n-20.sharedcollectioncategories]
+file_filter = <lang>/shared/collection_categories/collection_categories.properties
+source_file = en-US/shared/collection_categories/collection_categories.properties
+source_lang = en
+
+[gaia-l10n-20.sharedfacebook]
+file_filter = <lang>/shared/facebook/facebook.properties
+source_file = en-US/shared/facebook/facebook.properties
+source_lang = en
+
+[gaia-l10n-20.sharedgaiagrid]
+file_filter = <lang>/shared/gaia_grid/gaia_grid.properties
+source_file = en-US/shared/gaia_grid/gaia_grid.properties
+source_lang = en
+
+[gaia-l10n-20.sharedimportcontacts]
+file_filter = <lang>/shared/import_contacts/import_contacts.properties
+source_file = en-US/shared/import_contacts/import_contacts.properties
+source_lang = en
+
+[gaia-l10n-20.sharedsounds]
+file_filter = <lang>/shared/sounds/sounds.properties
+source_file = en-US/shared/sounds/sounds.properties
+source_lang = en
+
+[gaia-l10n-20.sharedvoicemail]
+file_filter = <lang>/shared/voicemail/voicemail.properties
+source_file = en-US/shared/voicemail/voicemail.properties
+source_lang = en
+
+[gaia-l10n-20.shareddate]
 file_filter = <lang>/shared/date/date.properties
 source_file = en-US/shared/date/date.properties
 source_lang = en
 
-[gaia-l10n-14.shareddownload]
+[gaia-l10n-20.shareddownload]
 file_filter = <lang>/shared/download/download.properties
 source_file = en-US/shared/download/download.properties
 source_lang = en
 
-[gaia-l10n-14.sharedpermissions]
+[gaia-l10n-20.sharedpermissions]
 file_filter = <lang>/shared/permissions/permissions.properties
 source_file = en-US/shared/permissions/permissions.properties
 source_lang = en
 
-[gaia-l10n-14.sharedtz]
+[gaia-l10n-20.sharedtz]
 file_filter = <lang>/shared/tz/tz.properties
 source_file = en-US/shared/tz/tz.properties
 source_lang = en
 
-[gaia-l10n-14.sharedsim_picker]
+[gaia-l10n-20.sharedsim_picker]
 file_filter = <lang>/shared/sim_picker/sim_picker.properties
 source_file = en-US/shared/sim_picker/sim_picker.properties
 source_lang = en
